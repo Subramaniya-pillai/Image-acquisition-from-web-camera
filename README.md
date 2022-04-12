@@ -115,7 +115,7 @@ cv2.destroyAllWindows()
 ![git](./3.jpg)
 
 ### iv) Rotate and display the video
-![git](./4.png)
+![git](./5.jpg)
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
