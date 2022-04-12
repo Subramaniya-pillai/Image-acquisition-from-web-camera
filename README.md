@@ -28,7 +28,7 @@ Close the each window frame after the result using the ordered waitkey
 ## Program:
 
 ### Developed By:SUBRAMANIYA PILLAI.B
-### Register No:21221230109
+### Register No:212221230109
 
 ## i) Write the frame as JPG file
 ```
